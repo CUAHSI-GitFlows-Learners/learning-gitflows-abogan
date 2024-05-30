@@ -11,3 +11,4 @@ To get started, open the file `course_guide.md` in a new tab. That file will gui
 ## I'm an instructor/facilitator
 
 If you are either facilitating a training or acting as a course contact for an individual taking the training, you should follow along with the extensive guide for someone setting up and administering the course by visiting the course facilitation guide in `course_guide_instructors.md`. Note that this file will not exist if you are in an individual learner's repository. It should only appear in the template repository: https://github.com/CUAHSI/learning-gitflows-template.
+
